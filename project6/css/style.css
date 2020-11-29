@@ -1,0 +1,45 @@
+.block1 {
+    background-color: rgb(194, 132, 18);
+    height: 300px;
+    width: 960px;
+}
+.block2 {
+    background-color: rgb(2, 103, 161);
+    height: 350px;
+    width: 480px;
+    float: left;
+    /* display: inline-block; */
+}
+.block3 {
+    background-color: rgb(10, 161, 5);
+    height: 350px;
+    width: 480px;
+    float: left;
+    /* display: inline-block; */
+}
+.block4 {
+    background-color: rgb(150, 16, 16);
+    height: 150px;
+    width: 320px;
+    float: left;
+    /* display: inline-block; */
+}
+.block5 {
+    background-color: rgb(190, 163, 6);
+    height: 150px;
+    width: 320px;
+    float: left;
+    /* display: inline-block; */
+}
+.block6 {
+    background-color: rgb(41, 15, 88);
+    height: 150px;
+    width: 320px;
+    float: left;
+    /* display: inline-block; */
+}
+.blocks {
+    height: 150px;
+    width: 3200px;
+    display: inline-block;
+}

@@ -1,0 +1,19 @@
+tr.orange{background-color: rgba(255, 166, 0, 0.781);text-align: center;} 
+tr.gren{background-color: rgba(38, 199, 38, 0.767);text-align: center;}
+tr.blue{background-color: rgba(24, 24, 185, 0.801);text-align: center;}
+tr.yellow{background-color: rgba(255, 255, 0, 0.788);text-align: center;}
+tr.red{background-color: rgba(255, 0, 0, 0.788);text-align: center;}
+tr.purple{background-color: rgba(139, 23, 139, 0.849);text-align: center;}
+tr.black{background-color: black;}
+tr.black{color: rgb(255, 255, 255);}
+
+td {border: 2px solid rgb(94, 82, 60);
+    }
+    img{
+        border-radius: 32px;
+        width: 120px;
+        height: 120px;
+        margin: 10px;
+       
+    }
+    .name,.color,.descriptiop{padding: 0px 20px 0px 20px;}
