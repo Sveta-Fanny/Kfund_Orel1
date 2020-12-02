@@ -1,0 +1,43 @@
+div.japan{
+    background: rgb(200,10,10);
+    background: radial-gradient(circle, rgba(200,10,10,1) 32%, rgba(255,255,255,1) 32%);
+    height: 200px;
+    width: 300px;
+    border: 3px solid black;
+}
+h1 {color: rgb(163, 5, 5); }
+div.instagram{
+    background: rgb(255,227,0);
+    background: linear-gradient(43deg, rgba(255,227,0,1) 5%, rgba(199,0,168,1) 57%, rgba(29,26,222,1) 87%); 
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    position: relative;
+}
+div.frame{
+    border: 7px  solid rgb(255, 255, 255);
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    left: 17px;
+    bottom: 17px;
+    position: absolute;
+}
+div.camera{
+    border: 7px solid rgb(255, 255, 255);
+    border-radius: 75px ;
+    height: 75px;
+    width: 75px;
+    left: 55px;
+    bottom: 55px ;
+    position: absolute;
+}
+div.flash{
+    background-color: rgb(255, 255, 255);
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    position: absolute;
+    left: 145px;
+    bottom: 145px;
+}

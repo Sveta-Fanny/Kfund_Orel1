@@ -43,3 +43,6 @@
     width: 3200px;
     display: inline-block;
 }
+.block1, .block2, .block3, .block4, .block5, .block6{
+    box-sizing: border-box;
+}
